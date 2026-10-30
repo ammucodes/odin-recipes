@@ -1,5 +1,7 @@
 # Odin Recipes 
 
+[🌐 Live Demo](https://ammucodes.github.io/odin-recipes/)
+
 My first HTML project, built as part of [The Odin Project](https://www.theodinproject.com/) Foundations course.
 
 A simple multi-page recipe website featuring three of my favorite dishes:
